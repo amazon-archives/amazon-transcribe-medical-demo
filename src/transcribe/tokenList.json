@@ -1,0 +1,223 @@
+[
+    {
+        "text": "Ventriculography",
+        "start": 0,
+        "end": 16,
+        "labels": [
+            {
+                "Id": 0,
+                "BeginOffset": 0,
+                "EndOffset": 16,
+                "Score": 0.9519398212432861,
+                "Text": "Ventriculography",
+                "Category": "TEST_TREATMENT_PROCEDURE",
+                "Type": "TEST_NAME",
+                "Traits": [],
+                "Attributes": [
+                    {
+                        "Type": "TEST_VALUE",
+                        "Score": 0.9613717794418335,
+                        "RelationshipScore": 0.9999545812606812,
+                        "Id": 1,
+                        "BeginOffset": 21,
+                        "EndOffset": 27,
+                        "Text": "normal",
+                        "Traits": []
+                    }
+                ]
+            },
+            {
+                "Id": 5,
+                "BeginOffset": 0,
+                "EndOffset": 27,
+                "Score": 0.35048913955688477,
+                "Text": "Ventriculography was normal",
+                "Category": "MEDICAL_CONDITION",
+                "Type": "DX_NAME",
+                "Traits": [
+                    {
+                        "Name": "SIGN",
+                        "Score": 0.7010207176208496
+                    }
+                ]
+            }
+        ],
+        "confidence": 0.99
+    },
+    {
+        "text": "was",
+        "start": 17,
+        "end": 20,
+        "labels": [
+            {
+                "Id": 5,
+                "BeginOffset": 0,
+                "EndOffset": 27,
+                "Score": 0.35048913955688477,
+                "Text": "Ventriculography was normal",
+                "Category": "MEDICAL_CONDITION",
+                "Type": "DX_NAME",
+                "Traits": [
+                    {
+                        "Name": "SIGN",
+                        "Score": 0.7010207176208496
+                    }
+                ]
+            }
+        ],
+        "confidence": 1
+    },
+    {
+        "text": "normal,",
+        "start": 21,
+        "end": 28,
+        "labels": [
+            {
+                "Id": 0,
+                "BeginOffset": 0,
+                "EndOffset": 16,
+                "Score": 0.9519398212432861,
+                "Text": "Ventriculography",
+                "Category": "TEST_TREATMENT_PROCEDURE",
+                "Type": "TEST_NAME",
+                "Traits": [],
+                "Attributes": [
+                    {
+                        "Type": "TEST_VALUE",
+                        "Score": 0.9613717794418335,
+                        "RelationshipScore": 0.9999545812606812,
+                        "Id": 1,
+                        "BeginOffset": 21,
+                        "EndOffset": 27,
+                        "Text": "normal",
+                        "Traits": []
+                    }
+                ]
+            },
+            {
+                "Id": 5,
+                "BeginOffset": 0,
+                "EndOffset": 27,
+                "Score": 0.35048913955688477,
+                "Text": "Ventriculography was normal",
+                "Category": "MEDICAL_CONDITION",
+                "Type": "DX_NAME",
+                "Traits": [
+                    {
+                        "Name": "SIGN",
+                        "Score": 0.7010207176208496
+                    }
+                ]
+            }
+        ],
+        "confidence": 1
+    },
+    {
+        "text": "and",
+        "start": 29,
+        "end": 32,
+        "labels": [],
+        "confidence": 0.99
+    },
+    {
+        "text": "his",
+        "start": 33,
+        "end": 36,
+        "labels": [],
+        "confidence": 1
+    },
+    {
+        "text": "ejection",
+        "start": 37,
+        "end": 45,
+        "labels": [
+            {
+                "Id": 2,
+                "BeginOffset": 37,
+                "EndOffset": 54,
+                "Score": 0.9076462388038635,
+                "Text": "ejection fraction",
+                "Category": "TEST_TREATMENT_PROCEDURE",
+                "Type": "TEST_NAME",
+                "Traits": [],
+                "Attributes": [
+                    {
+                        "Type": "TEST_VALUE",
+                        "Score": 0.8950424194335938,
+                        "RelationshipScore": 0.9999803304672241,
+                        "Id": 3,
+                        "BeginOffset": 59,
+                        "EndOffset": 61,
+                        "Text": "65",
+                        "Traits": []
+                    },
+                    {
+                        "Type": "TEST_UNIT",
+                        "Score": 0.9944038391113281,
+                        "RelationshipScore": 1,
+                        "Id": 4,
+                        "BeginOffset": 61,
+                        "EndOffset": 62,
+                        "Text": "%",
+                        "Traits": []
+                    }
+                ]
+            }
+        ],
+        "confidence": 1
+    },
+    {
+        "text": "fraction",
+        "start": 46,
+        "end": 54,
+        "labels": [
+            {
+                "Id": 2,
+                "BeginOffset": 37,
+                "EndOffset": 54,
+                "Score": 0.9076462388038635,
+                "Text": "ejection fraction",
+                "Category": "TEST_TREATMENT_PROCEDURE",
+                "Type": "TEST_NAME",
+                "Traits": [],
+                "Attributes": [
+                    {
+                        "Type": "TEST_VALUE",
+                        "Score": 0.8950424194335938,
+                        "RelationshipScore": 0.9999803304672241,
+                        "Id": 3,
+                        "BeginOffset": 59,
+                        "EndOffset": 61,
+                        "Text": "65",
+                        "Traits": []
+                    },
+                    {
+                        "Type": "TEST_UNIT",
+                        "Score": 0.9944038391113281,
+                        "RelationshipScore": 1,
+                        "Id": 4,
+                        "BeginOffset": 61,
+                        "EndOffset": 62,
+                        "Text": "%",
+                        "Traits": []
+                    }
+                ]
+            }
+        ],
+        "confidence": 1
+    },
+    {
+        "text": "was",
+        "start": 55,
+        "end": 58,
+        "labels": [],
+        "confidence": 0.98
+    },
+    {
+        "text": "65%.",
+        "start": 59,
+        "end": 63,
+        "labels": [],
+        "confidence": 1
+    }
+]

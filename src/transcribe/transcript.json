@@ -1,0 +1,353 @@
+[
+    {
+        "Alternatives": [
+            {
+                "Items": [
+                    {
+                        "Confidence": 0.99,
+                        "Content": "The",
+                        "EndTime": 7.45,
+                        "StartTime": 7.36,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Confidence": 1,
+                        "Content": "patient",
+                        "EndTime": 7.98,
+                        "StartTime": 7.46,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Confidence": 0.62,
+                        "Content": "had",
+                        "EndTime": 8.3,
+                        "StartTime": 7.99,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Confidence": 1,
+                        "Content": "significant",
+                        "EndTime": 9.1,
+                        "StartTime": 8.31,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Confidence": 1,
+                        "Content": "bruising",
+                        "EndTime": 9.72,
+                        "StartTime": 9.11,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Confidence": 1,
+                        "Content": "and",
+                        "EndTime": 9.83,
+                        "StartTime": 9.73,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Confidence": 1,
+                        "Content": "swelling",
+                        "EndTime": 10.37,
+                        "StartTime": 9.85,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Confidence": 1,
+                        "Content": "on",
+                        "EndTime": 10.68,
+                        "StartTime": 10.39,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Confidence": 1,
+                        "Content": "her",
+                        "EndTime": 10.96,
+                        "StartTime": 10.69,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Confidence": 1,
+                        "Content": "back",
+                        "EndTime": 11.51,
+                        "StartTime": 10.97,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Confidence": 0.97,
+                        "Content": "and",
+                        "EndTime": 11.79,
+                        "StartTime": 11.53,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Confidence": 0.99,
+                        "Content": "about",
+                        "EndTime": 12.23,
+                        "StartTime": 11.81,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Confidence": 1,
+                        "Content": "her",
+                        "EndTime": 12.47,
+                        "StartTime": 12.24,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Confidence": 0.99,
+                        "Content": "waist",
+                        "EndTime": 13.22,
+                        "StartTime": 12.48,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Confidence": 0.99,
+                        "Content": "pain",
+                        "EndTime": 13.81,
+                        "StartTime": 13.3,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Confidence": 1,
+                        "Content": "about",
+                        "EndTime": 14.25,
+                        "StartTime": 13.83,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Confidence": 1,
+                        "Content": "her",
+                        "EndTime": 14.49,
+                        "StartTime": 14.26,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Confidence": 1,
+                        "Content": "shoulder",
+                        "EndTime": 15.3,
+                        "StartTime": 14.5,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Content": ".",
+                        "EndTime": 15.3,
+                        "StartTime": 15.3,
+                        "Type": "punctuation"
+                    },
+                    {
+                        "Confidence": 1,
+                        "Content": "The",
+                        "EndTime": 16.16,
+                        "StartTime": 15.93,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Confidence": 0.99,
+                        "Content": "patient",
+                        "EndTime": 16.62,
+                        "StartTime": 16.17,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Confidence": 1,
+                        "Content": "was",
+                        "EndTime": 16.83,
+                        "StartTime": 16.63,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Confidence": 1,
+                        "Content": "treated",
+                        "EndTime": 17.33,
+                        "StartTime": 16.84,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Confidence": 1,
+                        "Content": "with",
+                        "EndTime": 17.67,
+                        "StartTime": 17.35,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Confidence": 0.53,
+                        "Content": "a",
+                        "EndTime": 17.71,
+                        "StartTime": 17.69,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Confidence": 0.97,
+                        "Content": "car",
+                        "EndTime": 18.09,
+                        "StartTime": 17.73,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Confidence": 0.5,
+                        "Content": "practically",
+                        "EndTime": 18.65,
+                        "StartTime": 18.1,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Confidence": 1,
+                        "Content": "intervention",
+                        "EndTime": 19.85,
+                        "StartTime": 18.67,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Content": ".",
+                        "EndTime": 19.85,
+                        "StartTime": 19.85,
+                        "Type": "punctuation"
+                    },
+                    {
+                        "Confidence": 0.98,
+                        "Content": "The",
+                        "EndTime": 20.35,
+                        "StartTime": 20.06,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Confidence": 0.94,
+                        "Content": "patient's",
+                        "EndTime": 20.95,
+                        "StartTime": 20.36,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Confidence": 1,
+                        "Content": "bruising",
+                        "EndTime": 21.61,
+                        "StartTime": 20.97,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Confidence": 1,
+                        "Content": "is",
+                        "EndTime": 22.05,
+                        "StartTime": 21.63,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Confidence": 0.99,
+                        "Content": "abated",
+                        "EndTime": 22.77,
+                        "StartTime": 22.07,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Content": ".",
+                        "EndTime": 22.77,
+                        "StartTime": 22.77,
+                        "Type": "punctuation"
+                    },
+                    {
+                        "Confidence": 1,
+                        "Content": "However",
+                        "EndTime": 23.62,
+                        "StartTime": 22.79,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Content": ",",
+                        "EndTime": 23.62,
+                        "StartTime": 23.62,
+                        "Type": "punctuation"
+                    },
+                    {
+                        "Confidence": 1,
+                        "Content": "she",
+                        "EndTime": 24.05,
+                        "StartTime": 23.64,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Confidence": 1,
+                        "Content": "is",
+                        "EndTime": 24.22,
+                        "StartTime": 24.06,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Confidence": 1,
+                        "Content": "still",
+                        "EndTime": 24.57,
+                        "StartTime": 24.23,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Confidence": 1,
+                        "Content": "having",
+                        "EndTime": 25.03,
+                        "StartTime": 24.58,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Confidence": 1,
+                        "Content": "pain",
+                        "EndTime": 25.61,
+                        "StartTime": 25.05,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Confidence": 1,
+                        "Content": "on",
+                        "EndTime": 25.92,
+                        "StartTime": 25.63,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Confidence": 1,
+                        "Content": "the",
+                        "EndTime": 26.14,
+                        "StartTime": 25.94,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Confidence": 1,
+                        "Content": "left",
+                        "EndTime": 26.52,
+                        "StartTime": 26.15,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Confidence": 1,
+                        "Content": "shoulder",
+                        "EndTime": 27.35,
+                        "StartTime": 26.54,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Content": ",",
+                        "EndTime": 27.35,
+                        "StartTime": 27.35,
+                        "Type": "punctuation"
+                    },
+                    {
+                        "Confidence": 0.83,
+                        "Content": "Freed",
+                        "EndTime": 27.64,
+                        "StartTime": 27.37,
+                        "Type": "pronunciation"
+                    },
+                    {
+                        "Confidence": 0.84,
+                        "Content": "up",
+                        "EndTime": 27.87,
+                        "StartTime": 27.65,
+                        "Type": "pronunciation"
+                    }
+                ],
+                "Transcript": "The patient had significant bruising and swelling on her back and about her waist pain about her shoulder. The patient was treated with a car practically intervention. The patient's bruising is abated. However, she is still having pain on the left shoulder, Freed up"
+            }
+        ],
+        "EndTime": 27.87,
+        "IsPartial": false,
+        "ResultId": "ebbf28ad-a548-46c3-aaef-dffbe8217e0e",
+        "StartTime": 7.36
+    }
+]
