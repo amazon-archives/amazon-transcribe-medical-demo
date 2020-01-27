@@ -1,6 +1,9 @@
 ## Amazon Transcribe Medical Demo
 
-In the project directory, you can run:
+
+First add your AWS credential in src/aws-credential.js
+
+Then you can run following step to start this demo app on local machine:
 
 ### `npm install`
 
