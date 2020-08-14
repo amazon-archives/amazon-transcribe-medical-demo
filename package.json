@@ -10,7 +10,7 @@
     "file-url": "^3.0.0",
     "inline-worker": "^1.1.0",
     "jquery": "^3.5.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "microphone-stream": "^5.0.1",
     "react": "^16.10.2",
     "react-bootstrap": "^1.0.0-beta.6",
